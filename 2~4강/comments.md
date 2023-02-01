@@ -256,7 +256,7 @@ let app: FirebaseApp, analytics: Analytics, database: Database;
 
 위와 같은 코드는 다른 사람들이 지우기를 주저한다. 그렇게 점점 쌓여만 간다.
 
-버전관리 시스템을 믿고 코드를 삭제하라.
+버전관리 시스템(git)을 믿고 코드를 삭제하라.
 
 ### 전역 정보
 
