@@ -81,7 +81,7 @@
     (-num1 - num2) / 2*num3
     ```
 
-* 가로정렬을 하지 않는다.
+* 가로정렬을 하지 않는다.  
   <img width="731" alt="image" src="https://user-images.githubusercontent.com/67260437/217409523-c24a98d8-f1fa-4b11-8a18-40db1369b472.png">
 
   함수를 정의할 때 가로 정렬을 하는 경우 함수 이름보다 변수부터 보게되는 경향이 있다.
